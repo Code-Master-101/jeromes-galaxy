@@ -35,9 +35,9 @@ body {
   font-size: 18px;
 }
 
-#welcome-galaxy {
-  background-image: url(https://images.hdqwalls.com/download/coastal-town-minimalist-4k-51-1366x768.jpg);
-  color: #fff;
+#showcase {
+  background-image: url(https://cdn.wallpapersafari.com/11/9/l6wYiC.jpg);
+  color: rgb(255, 255, 255);
   background-position: center right;
   height: 300px;
   margin-bottom: 15px;
@@ -66,13 +66,9 @@ body {
   text-align: center;
 }
 
-.box {
-  border: 1px solid rgb(46, 46, 46);
-  background-color: white;
-  width: 500px;
-  background-position: center-right;
-  margin: auto;
-  color: rgb(46, 46, 46);
-  text-align: center;
-  margin-bottom: 100px;
+.justify {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 1.8em;
+  text-indent: 3em;
 }
